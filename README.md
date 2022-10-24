@@ -3,8 +3,9 @@
 ## Intro
 
 * Small luajit script program
-* Linux base command line star search program
-* star database : HYG-Data(Star Object), DSO-Data(Deep-Skey Object)
+* Quick star object Search (Using: grep api)
+* Linux base command line Star search program
+* Star database : HYG-Data(Star Object), DSO-Data(Deep-Skey Object)
 * Fancy Nerd font icons and colored terminal display
 * No dependency except `luajit`
 * Portable
@@ -32,7 +33,6 @@ $ star -h
 
 ## Usage
 
-* Usage
 ```console
 Usage: mstar m31      -- deep-skey search (m,ngc...) HYG
        mstar hd22036  -- star search (hd,hip,hr...) DSO
@@ -43,5 +43,6 @@ Usage: mstar m31      -- deep-skey search (m,ngc...) HYG
 
 ## TODO
 
-* More Detailed Search Options
 * Static View
+* More Detailed Search Options
+* [o] 2022-10-24: First Version 0.0.1 Upload
