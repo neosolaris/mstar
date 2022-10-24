@@ -38,6 +38,9 @@ Usage: mstar m31      -- deep-skey search (m,ngc...) HYG
        mstar hd22036  -- star search (hd,hip,hr...) DSO
 ```
 
+## Screen Shot
+![screenshot](img/screenshot.png)
+
 ## TODO
 
 * More Detailed Search Options
