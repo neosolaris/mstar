@@ -23,12 +23,13 @@
 ## Install
 
 ```console
+$ cd
 $ git clone https://github.com/neosolaris/mstar.git
 $ cd mstar/
 $ ./setup.sh --help
 $ ./setup.sh install # create shellscript command to 'bin/mstar'
-$ export PATH=$PATH:<your_lemo_path>/bin
-$ star -h
+$ export PATH=$PATH:$HOME/mstar/bin
+$ mstar -h
 ```
 
 ## Usage
