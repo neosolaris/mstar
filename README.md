@@ -11,8 +11,8 @@
 * Portable
 
 ## Star DataBase
-* It's all from astronexus github: Thanks to
- - <https://github.com/astronexus/HYG-Database>
+It's all from astronexus github: Thanks to  
+<https://github.com/astronexus/HYG-Database>
 
 ## Requirement
 
@@ -21,6 +21,10 @@
 * `Nerd Font` on Terminal
 
 ## Install
+
+```console
+$ sudo apt install luajit
+```
 
 ```console
 $ cd
