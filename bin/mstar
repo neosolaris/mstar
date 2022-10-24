@@ -1,0 +1,4 @@
+#!/bin/sh
+export LUA_PATH="/data/git/mstar/lib/?.lua"
+export MSTAR=/data/git/mstar
+exec "/data/git/mstar/lib/main.lua" "$@"
